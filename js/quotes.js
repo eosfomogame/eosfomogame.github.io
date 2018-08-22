@@ -1,7 +1,7 @@
 
 var timeOnEachText = 5000; // Milliseconds to spend on each before moving to next
 
-var text = ["Go and spread your 'invite url'",
+var text = ["Go and spread your 'Invite Url'",
 	"We're not sure who's in the lead, but it's not you. Buy a key and fix that.",
     	"It's bad business if that timer hits 0, buy a key already!",
 	"you dropped your last key, time to buy a new one!",
