@@ -5,8 +5,8 @@ var text = ["The 1st game is over!",
     "The reds are defeated",
 	"Round 2 will start very soon!",
 	"Stay tuned on our telegram group: https://t.me/eosfomogame",
-	"If you did not please withdraw your divideds: Go to 'Valut' and select 'Withdraw'",
-	"...................................EOS FOMO GAME...................................",
+	"If you did not please withdraw your dividends: Go to 'Valut' and select 'Withdraw'",
+	"...................................................................... EOS FOMO GAME ......................................................................",
 	
 ];
 var counter = 0;
