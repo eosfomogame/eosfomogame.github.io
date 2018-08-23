@@ -4,7 +4,7 @@ var text = ["The 1st game is over!",
 	"Congratulation justforgame1! The blue win",
     "The reds are defeated",
 	"Round 2 will start very soon!",
-	"Stay tuned on our telegram group: https://t.me/eosfomogame",
+	"Stay tuned on our telegram group: @eosfomogame",
 	"If you did not please withdraw your dividends: Go to 'Valut' and select 'Withdraw'",
 	"Think different, Think EOS",
 	
