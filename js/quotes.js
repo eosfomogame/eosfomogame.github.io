@@ -13,7 +13,7 @@ var elem = document.getElementById("fade");
 function change() {
   jQuery(elem).delay(timeOnEachText).fadeTo(1400, 0, function() {
     this.innerHTML = text[counter];
-    counter = Math.floor(Math.random()*text.length);
+    counter = ++counter % text.length;
     jQuery(this).fadeTo(1400, 1, change)
   })
 }
