@@ -4,7 +4,7 @@ var text = ["The 1st game is over!",
 	"Congratulation strangertown! blue win",
     "The reds are defeated",
 	"Next special round will start very soon!",
-	"Stay tuned on our telegram group: https://t.me/eosfomogame",
+	"Stay tuned on our telegram group: @eosfomogame",
 	"Thanks for playing",
 	
 ];
