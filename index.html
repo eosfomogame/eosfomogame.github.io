@@ -233,7 +233,7 @@
                                     <div class="row">
                                         <div class="col-6 team">
                                             <label class="teamselector">
-                                                <input class="form-check-input form-radio teamsave" type="radio" autocomplete="off" name="teamselect" value="1" id="1" checked>
+                                                <input class="form-check-input form-radio teamsave" type="radio" autocomplete="off" name="teamselect" value="1" id="1">
                                                 <img src="img/red.png" id="redTeam">
                                                 <h5>Red</h5>
                                                 <p>Trickle down Divinomics</p>
@@ -245,7 +245,7 @@
                                         </div>
                                         <div class="col-6 team">
                                             <label class="teamselector">
-                                                <input class="form-check-input form-radio teamsave" type="radio" autocomplete="off" name="teamselect" value="2" id="2">
+                                                <input class="form-check-input form-radio teamsave" type="radio" autocomplete="off" name="teamselect" value="2" id="2" checked>
                                                 <img src="img/blue.png" id="blueTeam">
                                                 <h5>Blue</h5>
                                                 <p>Feed on the greed of others.</p>
@@ -643,8 +643,8 @@ host = itemsxp[indexhp];
         $("#selectedTeam").html("You have chosen the Blue Team !");
     });
 
-    seletedTeam = "red";
-    $("#selectedTeam").html("You have chosen the Red Team !");
+    seletedTeam = "blue";
+    $("#selectedTeam").html("You have chosen the Blue Team !");
 
     function addKeys(val) {
         if (!isStarted) {
